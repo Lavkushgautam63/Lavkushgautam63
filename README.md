@@ -161,14 +161,13 @@ React-based weather application using OpenWeatherMap API with optimized state ma
 </p>
 
 ---
-
 ## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Lavkushgautam63/Lavkushgautam63/output/github-contribution-grid-snake-dark.svg" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lavkushgautam63/Lavkushgautam63/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
+<div align="center">
 
 ## 🎉 Fun Section
 
