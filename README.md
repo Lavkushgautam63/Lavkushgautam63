@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Lavkush+Gautam;MERN+Stack+Developer;Competitive+Programmer+%7C+AWS+Certified;Focused+on+System+Design+%26+Performance+Optimization" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=1200&lines=Hi+👋,+I'm+Lavkush+Gautam;MERN+Stack+Developer;Software+Engineer+%7C+Competitive+Programmer+%7C+AWS+Certified;Focused+on+System+Design+%26+Performance+Optimization" />
 </h1>
+
 
 <p align="center">
   <strong>
