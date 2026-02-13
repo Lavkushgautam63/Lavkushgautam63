@@ -6,7 +6,7 @@
   <strong>
   MERN Stack Developer building scalable, production-ready web applications with strong backend architecture.  
   <br/>
-  Competitive Programmer | AWS Certified | Focused on System Design & Performance Optimization.
+  Competitive Programmer|AWS Certified | Focused on System Design&Performance Optimization.
   </strong>
 </p>
 
