@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=1200&lines=Hi+👋,+I'm+Lavkush+Gautam;MERN+Stack+Developer;Software+Engineer+%7C+Competitive+Programmer+%7C+AWS+Certified;Focused+on+System+Design+%26+Performance+Optimization" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=1400&lines=Hi+👋,+I'm+Lavkush+Gautam;Electronics+%26+Communication+Engineering+Student;MERN+Stack+Developer;Software+Engineer+%7C+Competitive+Programmer+%7C+AWS+Certified;System+Design+%26+Performance+Focused" />
 </h1>
 
 
@@ -52,26 +52,66 @@ Strong foundation in DSA, cloud deployment, and performance optimization.
 - 🤝 Contribute to Open Source  
 
 ---
+## 💻 Technical Skills
 
-## 💻 Tech Stack
-
-### 🚀 Programming Languages  
+### 🚀 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![Embedded C](https://img.shields.io/badge/Embedded_C-004482?style=for-the-badge)
 
-### 🌐 MERN Stack  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+---
+
+### 🌐 Web Technologies (MERN Stack)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ☁ Cloud & Tools  
+---
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### ⚙️ Embedded Systems
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-555555?style=for-the-badge)
+![Keil](https://img.shields.io/badge/Keil_uVision-007ACC?style=for-the-badge)
+
+---
+
+### ☁️ Cloud & Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+---
+
+### 🛠️ Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+---
+
+### 🧠 Core Competencies
+- Data Structures & Algorithms  
+- System Design Fundamentals  
+- Backend Architecture  
+- UI/UX Design  
+- Embedded Systems  
+- Cybersecurity Fundamentals  
+- Data Analysis & Modeling  
 
 ---
 
