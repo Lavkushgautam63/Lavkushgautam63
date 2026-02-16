@@ -127,16 +127,24 @@ Full-stack rental platform with authentication, listings, and booking functional
 React-based weather application using OpenWeatherMap API with optimized state management.  
 🔗 Live: https://lavkushgautam63.github.io/weather-app-react/  
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lavkushgautam63&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavkushgautam63&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lavkushgautam63&show_icons=true&theme=react" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lavkushgautam63&theme=react" />
 </p>
 
 ---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lavkushgautam63&theme=react-dark&hide_border=true" />
+</p>
+
 
 ## 🔥 Competitive Programming
 
