@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> priya lover
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=1400&lines=Hi+👋,+I'm+Lavkush+Gautam;Electronics+%26+Communication+Engineering+Student;MERN+Stack+Developer;Software+Engineer+%7C+Competitive+Programmer+%7C+AWS+Certified;System+Design+%26+Performance+Focused" />
 </h1>
 
